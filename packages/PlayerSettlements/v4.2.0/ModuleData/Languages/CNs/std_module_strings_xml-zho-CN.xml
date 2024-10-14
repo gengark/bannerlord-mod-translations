@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf8"?>
+<base type="string" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <tags>
+    <tag language="简体中文"/>
+  </tags>
+  <strings>
+    <string id="player_settlement_n_01" text="玩家定居点"/>
+    <string id="player_settlement_n_02" text="（自动）"/>
+  </strings>
+</base>

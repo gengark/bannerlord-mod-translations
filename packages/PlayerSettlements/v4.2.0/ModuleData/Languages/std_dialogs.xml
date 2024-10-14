@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+    <tags>
+        <tag language="English" />
+    </tags>
+    <strings>
+        <string id="player_settlement_01" text="Player Settlement" />
+        <string id="player_settlement_02" text="Create Player Settlement" />
+        <string id="player_settlement_03" text="What would you like to name your settlement?" />
+        <string id="player_settlement_04" text="Build a Town" />
+        <string id="player_settlement_05" text="Are you sure you want to build your town here?" />
+        <string id="player_settlement_06" text="This settlement is currently still under construction." />
+        <string id="player_settlement_07" text="{TOWN} construction has completed!" />
+        <string id="player_settlement_08" text="A player town has been created on a later save. Older saves are not supported and could cause save corruption or town 'ghosting'." />
+        <string id="player_settlement_09" text="Choose town culture" />
+        <string id="player_settlement_10" text="Choose the culture for {TOWN}" />
+        <string id="player_settlement_11" text="Choose village culture" />
+        <string id="player_settlement_12" text="Choose the culture for {VILLAGE}" />
+        <string id="player_settlement_13" text="Build a Village" />
+        <string id="player_settlement_14" text="Are you sure you want to build your village here?" />
+        <string id="player_settlement_15" text="Choose village type" />
+        <string id="player_settlement_16" text="Choose the type of primary product for {VILLAGE}" />
+        <string id="player_settlement_17" text="Error saving settlement data!" />
+        <string id="player_settlement_18" text="Are you sure you want to build your castle here?" />
+        <string id="player_settlement_19" text="Build a Castle" />
+        <string id="player_settlement_20" text="Choose castle culture" />
+        <string id="player_settlement_21" text="Choose the culture for {CASTLE}" />
+        <string id="player_settlement_22" text="Choose village bound settlement" />
+        <string id="player_settlement_23" text="Choose the settlement to which this village is bound" />
+        <string id="player_settlement_24" text="{SETTLEMENT_NAME} was founded by {HERO_NAME} of the {FACTION_TERM} on {BUILD_TIME}" />
+        <string id="player_settlement_25" text="I would like to review my options for building a settlement." />
+        <string id="player_settlement_26" text="We should build a town." />
+        <string id="player_settlement_27" text="We should build a village." />
+        <string id="player_settlement_28" text="We should build a castle." />
+        <string id="player_settlement_29" text="Nevermind." />
+        <string id="player_settlement_30" text="Corrupt Template" />
+        <string id="player_settlement_31" text="Player Settlements has encountered a corrupt template. \nPlease screenshot and report this along with the log file at '{LOG_PATH}'. \n{ERROR_DETAIL}\n\nYour game will now have a new emergency save created to avoid crashing. It is highly recommended to close the application before loading." />
+        <string id="player_settlement_32" text="Close Game" />
+        <string id="player_settlement_33" text="Attempt Recovery" />
+    </strings>
+</base>
