@@ -20,9 +20,10 @@ by [bannerlord-helper](https://github.com/gengark/bannerlord-helper), and have b
 
 ## 📑 Translations
 
-| Mod                                                                                | version | Paths                                                                                                                           |
-|:-----------------------------------------------------------------------------------|:-------:|:--------------------------------------------------------------------------------------------------------------------------------|
+|                                        Mod                                         | version | Paths                                                                                                                           |
+|:----------------------------------------------------------------------------------:|:-------:|:--------------------------------------------------------------------------------------------------------------------------------|
 | [Player Settlements](https://www.nexusmods.com/mountandblade2bannerlord/mods/7298) |  4.2.0  | [EN](packages/PlayerSettlements/v4.2.0/ModuleData/Languages), [CNs](packages/PlayerSettlements/v4.2.0/ModuleData/Languages/CNs) |
+|                                                                                    |  5.0.0  | [EN](packages/PlayerSettlements/v5.0.0/ModuleData/Languages), [CNs](packages/PlayerSettlements/v5.0.0/ModuleData/Languages/CNs) |
 
 ## 🤝 Contribution
 

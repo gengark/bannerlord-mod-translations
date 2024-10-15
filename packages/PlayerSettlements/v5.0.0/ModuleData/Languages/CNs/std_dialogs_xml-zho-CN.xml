@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf8"?>
+<base type="string" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <tags>
+    <tag language="简体中文"/>
+  </tags>
+  <strings>
+    <string id="player_settlement_01" text="玩家定居点"/>
+    <string id="player_settlement_02" text="创建玩家定居点"/>
+    <string id="player_settlement_03" text="您想将您的定居点命名成什么？"/>
+    <string id="player_settlement_04" text="建造一座城镇"/>
+    <string id="player_settlement_05" text="您确定要在这里建造您的城镇吗？"/>
+    <string id="player_settlement_06" text="这个定居点目前仍在建设中。"/>
+    <string id="player_settlement_07" text="{TOWN} 施工已完成！"/>
+    <string id="player_settlement_08" text="在当前战役中创建了一个玩家城镇。旧的存档将不可用，因为它会导致存档损坏或城镇“重影”。"/>
+    <string id="player_settlement_09" text="选择城镇文化"/>
+    <string id="player_settlement_10" text="选择 {TOWN} 的文化"/>
+    <string id="player_settlement_11" text="选择村庄文化"/>
+    <string id="player_settlement_12" text="选择 {VILLAGE} 的文化"/>
+    <string id="player_settlement_13" text="建造一个村庄"/>
+    <string id="player_settlement_14" text="您确定要在这里建造您的村庄吗？"/>
+    <string id="player_settlement_15" text="选择村庄类型"/>
+    <string id="player_settlement_16" text="为 {VILLAGE} 选择主要的商品产出物"/>
+    <string id="player_settlement_17" text="保存定居点数据时出错！"/>
+    <string id="player_settlement_18" text="您确定要在这里建造您的城堡吗？"/>
+    <string id="player_settlement_19" text="建造一座城堡"/>
+    <string id="player_settlement_20" text="选择城堡文化"/>
+    <string id="player_settlement_21" text="选择 {CASTLE} 的文化"/>
+    <string id="player_settlement_22" text="选择村庄定居点"/>
+    <string id="player_settlement_23" text="选择此村庄的定居点"/>
+    <string id="player_settlement_24" text="{SETTLEMENT_NAME} 由 {FACTION_TERM} 的 {HERO_NAME} 于 {BUILD_TIME} 创立"/>
+    <string id="player_settlement_25" text="我想重新选择定居点的选项。"/>
+    <string id="player_settlement_26" text="我们应该建一个城镇。"/>
+    <string id="player_settlement_27" text="我们应该建造一个村庄。"/>
+    <string id="player_settlement_28" text="我们应该建造一座城堡。"/>
+    <string id="player_settlement_29" text="不要紧。"/>
+    <string id="player_settlement_30" text="模板损坏"/>
+    <string id="player_settlement_31" text="玩家定居点模板损坏。\n请截取屏幕截图，并将其与“{LOG_PATH}”中的日志文件一起报告。\n{ERROR_DETAIL}\n\n您的游戏现在将创建一个新的紧急存档以避免崩溃。强烈建议加载它之前重启游戏。"/>
+    <string id="player_settlement_32" text="关闭游戏"/>
+    <string id="player_settlement_33" text="尝试复原"/>
+    <string id="player_settlement_34" text="选择您的大门位置。单击任意位置应用，或按“ESC”重新摆放定居点。"/>
+    <string id="player_settlement_35" text="选择您的定居点。\r\n单击任意位置应用或按“ESC”取消。\r\n使用“Shift”和旋转键（默认为“Q”和“E”）切换定居点模型。\r\n使用“Alt”和旋转键（默认为“Q”和“E”）旋转模型。\r\n使用“Ctrl”和旋转键（默认为“Q”和“E”）缩放模型。"/>
+  </strings>
+</base>

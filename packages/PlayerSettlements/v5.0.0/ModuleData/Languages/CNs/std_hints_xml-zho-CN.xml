@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf8"?>
+<base type="string" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <tags>
+    <tag language="简体中文"/>
+  </tags>
+  <strings>
+    <string id="player_settlement_h_01" text="玩家定居点"/>
+    <string id="player_settlement_h_02" text="当前没有在进行中的游戏！"/>
+    <string id="player_settlement_h_03" text="家族等级太低。需要 {TIER}"/>
+    <string id="player_settlement_h_04" text="未启用玩家定居点"/>
+    <string id="player_settlement_h_05" text="资金不足 （{CURRENT_FUNDS}/{REQUIRED_FUNDS}）"/>
+    <string id="player_settlement_h_06" text="施工中"/>
+    <string id="player_settlement_h_07" text="无法建造城镇：{TOWN_REASON}\r\n\r\n无法建造城堡：{CASTLE_REASON}\r\n\r\n无法建造村庄：{VILLAGE_REASON}"/>
+    <string id="player_settlement_h_08" text="已达到的最大城镇数量"/>
+    <string id="player_settlement_h_09" text="已达到的最大城堡数量"/>
+    <string id="player_settlement_h_10" text="已达到的最大村庄数量"/>
+    <string id="player_settlement_h_11" text="村庄没有候选的玩家定居点可以绑定"/>
+    <string id="player_settlement_h_12" text="显示/隐藏玩家定居点建造选项"/>
+  </strings>
+</base>
