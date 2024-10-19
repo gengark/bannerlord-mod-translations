@@ -6,8 +6,8 @@
   <strings>
     <string id="player_settlement_n_01" text="玩家定居点"/>
     <string id="player_settlement_n_02" text="（自动）"/>
-    <string id="player_settlement_n_03" text="建造定居点会保存游戏。默认覆盖当前存档。 【默认：关闭】"/>
-    <string id="player_settlement_n_04" text="建造时保存游戏"/>
+    <string id="player_settlement_n_03" text="建造定居点会创建一个新存档。关闭时覆盖当前存档。 【默认：关闭】"/>
+    <string id="player_settlement_n_04" text="建造时创建新存档"/>
     <string id="player_settlement_n_05" text="在满足至少一种定居点的建造要求前隐藏建造面板。 \n对话时仅显示可用的选项，关闭时不可用的对话会说明原因。 【默认：关闭】"/>
     <string id="player_settlement_n_06" text="隐藏对话和面板直到满足条件"/>
     <string id="player_settlement_n_07" text="始终隐藏面板。开启时仅能与同伴对话建造定居点。 【默认：关闭】"/>
