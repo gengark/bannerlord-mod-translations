@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf8"?>
+<base type="string" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <tags>
+    <tag language="简体中文"/>
+  </tags>
+  <strings>
+    <string id="player_settlement_n_01" text="玩家定居点"/>
+    <string id="player_settlement_n_02" text="（自动）"/>
+    <string id="player_settlement_n_03" text="建造定居点会创建一个新存档。关闭时覆盖当前存档。 【默认：关闭】"/>
+    <string id="player_settlement_n_04" text="建造时创建新存档"/>
+    <string id="player_settlement_n_05" text="在满足至少一种定居点的建造要求前隐藏建造面板。{newline}对话时仅显示可用的选项，关闭时不可用的对话会说明原因。 【默认：关闭】"/>
+    <string id="player_settlement_n_06" text="隐藏对话和面板直到满足条件"/>
+    <string id="player_settlement_n_07" text="始终隐藏面板。开启时仅能与同伴对话建造定居点。 【默认：关闭】"/>
+    <string id="player_settlement_n_08" text="沉浸模式"/>
+    <string id="player_settlement_n_09" text="隐藏对话选项。开启时仅能通过面板建造定居点。 【默认：关闭】"/>
+    <string id="player_settlement_n_10" text="隐藏对话选项"/>
+    <string id="player_settlement_n_11" text="允许选择放置定居点的位置和旋转。禁用时将使用玩家部队当前的位置。 【默认：开启】"/>
+    <string id="player_settlement_n_12" text="启用定居点放置"/>
+    <string id="player_settlement_n_13" text="鼠标移动旋转定居点的速度。{newline}适用于按住“Alt”键切换定居点的速度。 【默认：50%】"/>
+    <string id="player_settlement_n_14" text="鼠标旋转速度"/>
+    <string id="player_settlement_n_15" text="旋转键旋转定居点的速度。{newline}游戏设置默认的旋转键为“Q”和“E”，除非重新映射。{newline}适用于按住“Alt”键切换定居点的速度。 【默认：100%】"/>
+    <string id="player_settlement_n_16" text="旋转键速度"/>
+    <string id="player_settlement_n_17" text="限制文化与玩家初始游戏时的选择相同。{newline}否则将允许选择定居点文化。{newline}按住“Shift”并使用旋转键可切换定居点模型。{newline}游戏设置默认的旋转键为“Q”和“E”，除非重新映射。 【默认：开启】"/>
+    <string id="player_settlement_n_18" text="限制定居点文化"/>
+    <string id="player_settlement_n_19" text="按住“Shift”和旋转键时，放置定居点时的切换速度，或者按住“Ctrl”和旋转键时定居点的缩放速度。{newline}按住“Shift”并使用旋转键可切换定居点的视觉效果。{newline}默认游戏旋转键为“Q”和“E”，除非重新映射。 【默认：50%】"/>
+    <string id="player_settlement_n_20" text="定居点旋转速度"/>
+    <string id="player_settlement_n_21" text="启用玩家定居点模组并在地图屏幕中添加选项。 【默认：开启】"/>
+    <string id="player_settlement_n_22" text="在允许建造定居点之前，家族需要达到指定等级。 【默认：开启】"/>
+    <string id="player_settlement_n_23" text="家族等级限制"/>
+    <string id="player_settlement_n_24" text="在允许建造定居点之前需要达到指定等级。 【默认：4】"/>
+    <string id="player_settlement_n_25" text="所需家族等级"/>
+    <string id="player_settlement_n_26" text="需要支付指定第纳尔才能建造新城镇。 【默认：开启】"/>
+    <string id="player_settlement_n_27" text="城镇建造所需成本"/>
+    <string id="player_settlement_n_28" text="以第纳尔指定的城镇建设成本。 【默认：10 000】"/>
+    <string id="player_settlement_n_29" text="城镇建造费用"/>
+    <string id="player_settlement_n_30" text="跳过所需的建设时间并立即完成城镇建设。 【默认：关闭】"/>
+    <string id="player_settlement_n_31" text="城镇立即完成"/>
+    <string id="player_settlement_n_32" text="城镇建造持续的天数。 【默认：7】"/>
+    <string id="player_settlement_n_33" text="城镇建造时间"/>
+    <string id="player_settlement_n_34" text="城镇的文化将与玩家的初始选择相同。默认情况下，关闭此选项时可以选择城镇文化。 【默认：关闭】"/>
+    <string id="player_settlement_n_35" text="城镇文化限制"/>
+    <string id="player_settlement_n_36" text="需要以第纳尔支付指定费用才能建造新村庄。 【默认：开启】"/>
+    <string id="player_settlement_n_37" text="村庄建造需要成本"/>
+    <string id="player_settlement_n_38" text="以第纳尔指定的建造新村庄的费用。 【默认：3000】"/>
+    <string id="player_settlement_n_39" text="村庄建造费用"/>
+    <string id="player_settlement_n_40" text="将自动确定村庄的类型，这决定了其主要产品。默认情况下，当此选项为“关闭”时，可以选择商品类型。 【默认：关闭】"/>
+    <string id="player_settlement_n_41" text="自动分配村庄产品"/>
+    <string id="player_settlement_n_42" text="将自动确定村庄的绑定城镇/城堡。默认情况下，关闭时可以选择绑定定居点。 【默认：关闭】"/>
+    <string id="player_settlement_n_43" text="自动绑定村庄附近的定居点"/>
+    <string id="player_settlement_n_44" text="需要以第纳尔支付指定费用才能建造新城堡。 【默认：开启】"/>
+    <string id="player_settlement_n_45" text="城堡建造需要成本"/>
+    <string id="player_settlement_n_46" text="以第纳尔指定的建造新城堡的费用。 【默认：7500】"/>
+    <string id="player_settlement_n_47" text="城堡建造费用"/>
+    <string id="player_settlement_n_48" text="允许玩家建造的城镇最大数量。至少需要一个城镇。 【默认：10】"/>
+    <string id="player_settlement_n_49" text="城镇数量上限"/>
+    <string id="player_settlement_n_50" text="每个城镇允许玩家建造村庄的最大数量。 【默认：5】"/>
+    <string id="player_settlement_n_51" text="城镇最大村庄数"/>
+    <string id="player_settlement_n_52" text="允许玩家建造的城堡最大数量。首先至少需要一个城镇。 【默认：15】"/>
+    <string id="player_settlement_n_53" text="城堡数量上限"/>
+    <string id="player_settlement_n_54" text="每个城堡允许玩家建造村庄的最大数量。 【默认：4】"/>
+    <string id="player_settlement_n_55" text="城堡最大村庄数"/>
+    <string id="player_settlement_n_56" text="需要完成进行中的建设才能建造下一个定居点。默认关闭时，可以同时进行多个定居点建设。 【默认：关闭】"/>
+    <string id="player_settlement_n_57" text="不能同时建造"/>
+    <string id="player_settlement_n_58" text="将为新城镇和城堡增加初始驻军。 【默认：开启】"/>
+    <string id="player_settlement_n_59" text="添加初始驻军"/>
+    <string id="player_settlement_n_60" text="将为新定居点增加初始民兵。 【默认：开启】"/>
+    <string id="player_settlement_n_61" text="添加初始民兵"/>
+    <string id="player_settlement_n_62" text="将为新城镇和村庄添加初始要人。 【默认：开启】"/>
+    <string id="player_settlement_n_63" text="添加初始要人"/>
+    <string id="player_settlement_n_64" text="启用"/>
+    <string id="player_settlement_n_65" text="玩家定居点"/>
+    <string id="player_settlement_n_66" text="保存"/>
+    <string id="player_settlement_n_67" text="用户界面"/>
+    <string id="player_settlement_n_68" text="如果适用，允许选择定居点大门位置。 【默认：开启】"/>
+    <string id="player_settlement_n_69" text="允许设置大门位置"/>
+    <string id="player_settlement_n_70" text="定居点放置"/>
+
+    <!-- V6 Settings -->
+    <string id="player_settlement_n_71" text="将禁用放置定居点时显示的自动提示。提示仍然可以通过按下 help 键来显示，未修改的情况下默认是 'F1'。 【默认：OFF】"/>
+    <string id="player_settlement_n_72" text="禁用自动提示"/>
+
+    <!-- Keybindings -->
+    <string id="player_settlement_n_73" text="显示帮助"/>
+    <string id="player_settlement_n_74" text="在建造玩家定居点时，将显示上下文帮助信息。"/>
+    <string id="player_settlement_n_75" text="模型轮换"/>
+    <string id="player_settlement_n_76" text="在建造玩家定居点时，按住时会切换到模型轮换。"/>
+    <string id="player_settlement_n_77" text="旋转模式"/>
+    <string id="player_settlement_n_78" text="在建造玩家定居点时，按住时会切换到旋转模式。"/>
+    <string id="player_settlement_n_79" text="缩放模式"/>
+    <string id="player_settlement_n_80" text="在建造玩家定居点时，按住时会切换到缩放模式。"/>
+    <string id="player_settlement_n_81" text="精确编辑切换"/>
+    <string id="player_settlement_n_82" text="在建造玩家定居点时，将在放置和精确编辑模式之间切换。"/>
+    <string id="player_settlement_n_83" text="精确编辑完成"/>
+    <string id="player_settlement_n_84" text="在放置玩家定居点并处于精确编辑模式时，将完成并应用于大门位置选择（如适用）或确认最终完成"/>
+    <string id="player_settlement_n_85" text="玩家定居点"/>
+    <string id="player_settlement_n_86" text="玩家定居点：模型轮换"/>
+    <string id="player_settlement_n_87" text="上一个模型"/>
+    <string id="player_settlement_n_88" text="在建造玩家定居点时，将轮换到上一个定居点模型（或精确编辑模式下的上一个子模型）。"/>
+    <string id="player_settlement_n_89" text="下一个模型"/>
+    <string id="player_settlement_n_90" text="在建造玩家定居点时，将轮换到下一个定居点模型（或精确编辑模式下的下一个子模型）。"/>
+    <string id="player_settlement_n_91" text="下移"/>
+    <string id="player_settlement_n_92" text="在建造玩家定居点时，会将所选模型向下移动。"/>
+    <string id="player_settlement_n_93" text="上升"/>
+    <string id="player_settlement_n_94" text="在建造玩家定居点时，会将所选模型向上移动。"/>
+    <string id="player_settlement_n_95" text="玩家定居点：缩放模式"/>
+    <string id="player_settlement_n_96" text="缩小"/>
+    <string id="player_settlement_n_97" text="在建造玩家定居点时，会缩小模型。"/>
+    <string id="player_settlement_n_98" text="扩大规模"/>
+    <string id="player_settlement_n_99" text="在建造玩家定居点时，会放大模型。"/>
+    <string id="player_settlement_n_100" text="玩家定居点：旋转模式"/>
+    <string id="player_settlement_n_101" text="向左旋转"/>
+    <string id="player_settlement_n_102" text="在建造玩家定居点时，会将模型向左旋转。"/>
+    <string id="player_settlement_n_103" text="向右旋转"/>
+    <string id="player_settlement_n_104" text="在建造玩家定居点时，会将模型向右旋转。"/>
+    <string id="player_settlement_n_105" text="向后旋转"/>
+    <string id="player_settlement_n_106" text="在建造玩家定居点时，将向后旋转模型。"/>
+    <string id="player_settlement_n_107" text="向前旋转"/>
+    <string id="player_settlement_n_108" text="在建造玩家定居点时，会向前旋转模型。"/>
+    <string id="player_settlement_n_109" text="备用旋转轴"/>
+    <string id="player_settlement_n_110" text="在建造玩家定居点时，当与“旋转修改器”保持在一起，将切换到交替旋转模式。 使用前后旋转键时，会改变旋转轴。"/>
+
+    <string id="player_settlement_n_111" text="城堡建造完成前所需的天数。 【默认：7】"/>
+    <string id="player_settlement_n_112" text="村庄建设完成前所需的天数。 【默认：3】"/>
+    <string id="player_settlement_n_113" text="建造持续时间天数（城镇）"/>
+    <string id="player_settlement_n_114" text="建造持续时间天数（城堡）"/>
+    <string id="player_settlement_n_115" text="建造持续时间天数（村庄）"/>
+    <string id="player_settlement_n_116" text="提示持续时间"/>
+    <string id="player_settlement_n_117" text="显示提示的持续时间（秒）。游戏默认的基础提示时间之外的持续时间。【默认：3】"/>
+    <string id="player_settlement_n_118" text="城镇重建完成前所需的天数。 【默认：5】"/>
+    <string id="player_settlement_n_119" text="城堡重建完成前所需的天数。 【默认：4】"/>
+    <string id="player_settlement_n_120" text="村庄重建完成前所需的天数。 【默认：2】"/>
+    <string id="player_settlement_n_121" text="重建持续天数（城镇）"/>
+    <string id="player_settlement_n_122" text="重建持续天数（城堡）"/>
+    <string id="player_settlement_n_123" text="重建持续天数（村庄）"/>
+    <string id="player_settlement_n_124" text="以第纳尔表示的重建城镇所需的成本。 【默认：5000】"/>
+    <string id="player_settlement_n_125" text="城镇重建费用"/>
+    <string id="player_settlement_n_126" text="以第纳尔表示的重建村庄所需的成本。 【默认：1000】"/>
+    <string id="player_settlement_n_127" text="村庄重建费用"/>
+    <string id="player_settlement_n_128" text="以第纳尔表示的重建城堡所需的成本。 【默认：3500】"/>
+    <string id="player_settlement_n_129" text="城堡重建费用"/>
+    <string id="player_settlement_n_130" text="玩家定居点：精确编辑模式"/>
+    <string id="player_settlement_n_131" text="删除选择"/>
+    <string id="player_settlement_n_132" text="在建造玩家定居点时，在精确编辑模式下建造时，将删除所选模型。"/>
+    <string id="player_settlement_n_133" text="取消删除模式"/>
+    <string id="player_settlement_n_134" text="在精确编辑模式中，按住“删除选择”按钮将撤销删除的选中。"/>
+  </strings>
+</base>
